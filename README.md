@@ -44,6 +44,35 @@
 
 <p align="center">
 
+<!--- stats & Trophy (start) -->
+<p align="center">
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=paulYRP&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+
+  <img title="🔥 Streak stats"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=paulYRP&theme=dark&hide_border=false" />
+
+</td>
+
+<td width="50%" align="center">
+
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulYRP&theme=dark&hide_border=false&layout=compact&langs_count=10"/>
+
+</td>
+</tr>
+</table>
+
+</p>
+<!--- stats (end) -->
+
+
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
