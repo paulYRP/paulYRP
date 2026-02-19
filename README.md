@@ -42,7 +42,7 @@
 </a> 
 </p>
 
-<p>
+<p align="left"> 
 
 
 
