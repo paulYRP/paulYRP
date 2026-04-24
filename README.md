@@ -1,7 +1,7 @@
 <meta name="google-site-verification" content="RioLzrRP67EbJxiP9be5uNVb8PMVcZ6pGs6jZFQY7Bg" />
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=n10962646&label=Profile%20views&color=0e75b6&style=flat" alt="n10962646" /> </p> -->
 
-- 🔭 I’m currently working on **a DNAm Analytic Pipeline.**
+- 🔭 I’m currently working on **synthetic data generation.**
 
 - 📫 How to reach me **paul.ruizpinto@qut.edu.au**
 
